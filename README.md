@@ -4,7 +4,7 @@ Full  stack project using MERN
 ------------------------------
 Frontend Live Link : https://admin-dashboard-n59y.onrender.com/dashboard
 
-Incase if you are visiting time on link, it may take time to load.
+Incase if you are visiting first time on link, it may take time to load.
 
 -----------------------------------------------------------------------
 
@@ -19,3 +19,4 @@ Some Screenshots of Project
 ![Screenshot (59)](https://user-images.githubusercontent.com/28596628/212528093-9ff1085c-f853-4807-b7eb-2bc74db1dd11.png)
 ![Screenshot (60)](https://user-images.githubusercontent.com/28596628/212528107-d9279fa6-b4de-40a2-ab5f-d54ceceff094.png)
 ![Screenshot (61)](https://user-images.githubusercontent.com/28596628/212528178-76921420-68ea-4a15-84dd-abfa92a9ae46.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/28596628/212528517-f9560889-8d5e-481f-b9ac-e8dabe2e44f3.png)
