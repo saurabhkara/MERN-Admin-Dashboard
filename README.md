@@ -2,7 +2,7 @@
 Full  stack project using MERN
 
 ------------------------------
-Frontend Live Link : https://admin-dashboard-n59y.onrender.com/dashboard
+Frontend Live Link : https://admin-dashboard-n59y.onrender.com/
 
 Incase if you are visiting first time on link, it may take time to load.
 
